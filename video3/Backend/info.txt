@@ -1,0 +1,5 @@
+Connected frontend with backend
+
+Learned about proxy, how does it work, what are the befefits etc
+
+got a bit flavour of React.js after a long
